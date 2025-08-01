@@ -1,0 +1,9 @@
+Sofőr: Gager
+Jármű: Ikarus260
+Pálya: Óbuda
+Járat: 237
+[2025-08-01 20:56:32]
+Jármű: ikarus
+Pálya: obuda
+Járat: 26
+
