@@ -12,3 +12,8 @@ Jármű: ikarus
 Pálya: obuda
 Járat: 26
 
+[2025-08-01 21:30:47]
+Jármű: ikarus
+Pálya: obuda
+Járat: 1
+
