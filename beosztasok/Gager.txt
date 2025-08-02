@@ -17,3 +17,8 @@ Jármű: ikarus
 Pálya: obuda
 Járat: 1
 
+[2025-08-02 12:18:34]
+Jármű: Volvo7700A
+Pálya: obuda
+Járat: 1
+
