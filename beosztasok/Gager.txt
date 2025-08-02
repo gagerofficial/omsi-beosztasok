@@ -27,3 +27,8 @@ Jármű: Volvo7700A
 Pálya: obuda
 Járat: 1
 
+[2025-08-02 12:26:47]
+Jármű: MercedNG
+Pálya: obuda
+Járat: 26
+
