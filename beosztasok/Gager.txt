@@ -37,3 +37,8 @@ Jármű: MercedNG
 Pálya: obuda
 Járat: 26
 
+[2025-08-02 12:52:06]
+Jármű: MercedNG
+Pálya: obuda
+Járat: 26
+
