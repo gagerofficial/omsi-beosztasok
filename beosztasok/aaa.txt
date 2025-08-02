@@ -1,0 +1,5 @@
+[2025-08-02 13:01:27]
+Jármű: MercedNG
+Pálya: obuda
+Járat: 26
+
